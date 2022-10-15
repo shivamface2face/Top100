@@ -1,14 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5724cd1b-ac49-4e0e-8182-afc8d77da7ad" name="Changes" comment="" />
+    <list default="true" id="5724cd1b-ac49-4e0e-8182-afc8d77da7ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Number/NoOfDayInMonth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Number/QuarEqun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/AsciiValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/CheckAlphabet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/CountVowel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/FirstNonRepeating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/FirstRepeatingChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/FrequencyOfCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/LengthOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/PallindromOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/RemoveBracket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/RemoveExceptVowel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/RemoveVowel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/SumOfNoInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/ToggelCharcter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/VowelOrConsonent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FW6MOxz0gUflmK8REQnKx9UF2B" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,12 +45,88 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.Anagram">
+    <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.Anagram" />
+      <module name="Top100" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstRepeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.FirstRepeating" />
+      <module name="Top100" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrequencyOfCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.FrequencyOfCharacter" />
+      <module name="Top100" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PallindromOfString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.PallindromOfString" />
+      <module name="Top100" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveExceptVowel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.RemoveExceptVowel" />
+      <module name="Top100" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Anagram" />
+        <item itemvalue="Application.FirstRepeating" />
+        <item itemvalue="Application.FrequencyOfCharacter" />
+        <item itemvalue="Application.RemoveExceptVowel" />
+        <item itemvalue="Application.PallindromOfString" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
