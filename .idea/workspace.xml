@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5724cd1b-ac49-4e0e-8182-afc8d77da7ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MaxMinElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/SecondMinMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/SumOfEle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/ReplaceWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/AsecTnDesc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/FreqOfElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ReverseOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/SortArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SecondMin">
+  <component name="RunManager" selected="Application.SortArray">
     <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String.Anagram" />
       <module name="Top100" />
@@ -78,19 +78,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveExceptVowel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.RemoveExceptVowel" />
-      <module name="Top100" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SecondMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.SecondMin" />
       <module name="Top100" />
@@ -104,13 +91,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.SortArray" />
+      <module name="Top100" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortArray" />
         <item itemvalue="Application.SecondMin" />
         <item itemvalue="Application.Anagram" />
         <item itemvalue="Application.FirstRepeating" />
         <item itemvalue="Application.FrequencyOfCharacter" />
-        <item itemvalue="Application.RemoveExceptVowel" />
       </list>
     </recent_temporary>
   </component>
